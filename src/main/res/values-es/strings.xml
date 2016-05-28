@@ -123,7 +123,7 @@
   <!--Text for dialog displayed on first start-->
   <string name="welcome_text">Syncthing es una aplicación de sincronización de ficheros de código abierto.\n\n
 Para compartir datos con otros dispositivos necesitas añadir el ID único del dispositivo a la lista de dispositivos. Después podrá seleccionar las carpetas a compartir con los dispositivos.\n\n
-Por favor informe de qualquier problema que encuentres via Github.</string>
+Por favor informe de cualquier problema que encuentres via Github.</string>
   <!--SettingsFragment-->
   <!--Activity title-->
   <string name="settings_title">Ajustes</string>
